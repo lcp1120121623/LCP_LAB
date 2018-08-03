@@ -25,6 +25,7 @@ end
 print(isturnback(-180))  --get ture
 
 
+
 --relationship operators
 --==========================================================
 --less than, <
@@ -51,4 +52,5 @@ print('2'<'15')  --get false
 
 print(7 and 6)
 print(nil and 13)
+print(71 or 9)
 
